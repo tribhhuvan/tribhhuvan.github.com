@@ -24,7 +24,7 @@ h1{
     font-family:Changa One;
     -webkit-font-smoothing:antialiased;
     margin-bottom:10px;
-    /*padding-top:10px;*/
+    /* padding-top:10px; */
 
 text-shadow: 0 1px 0 #ccc, 
                0 2px 0 #c9c9c9,
@@ -40,8 +40,9 @@ text-shadow: 0 1px 0 #ccc,
                0 20px 20px rgba(0,0,0,.15);
 }
 h5{
+	color: darkblue;
     text-align:center;
-    font-family: monospace;
+    font-family: Nunito;
     font-size:xx-large;
 }
 .image{
@@ -51,44 +52,33 @@ h5{
     margin-top: 0px;
 }
 .logo{
-    width:250px;
-    height:250px;
-    margin:auto;/*615px*/
-    display:block;
+    width:300px;
+    height:300px;
+    margin: auto;
+    display: block;
 }
-a
+h4
 {
-    color:#;
+	color: darkblue;
+    
     text-align:center;
     font-size:27px;
-    font-family:Philosopher;
+    font-family:Nunito;
     -webkit-font-smoothing:antialiased;
     text-shadow:0 1px 2.9px #b3b2b2;
     margin-bottom:30px;
     padding-top:0px;
 }
-#box
-{
-    position: relative;	
-    left: 44%;
-	padding: 12px 25px;
-	color: ;
-	text-decoration: none;
-	background-color:azure;
-	border-radius: 50px;
-	opacity:0.6;
-    filter:alpha(opacity=40);/* For IE8 and earlier */
-	transition: background-color .3s ease-in;
-}
 p
 {
+    color: darkblue;
     text-align:center;
     font-size:21px;
-    font-family:Philosopher;
+    font-family:Nunito;
     -webkit-font-smoothing:antialiased;
     text-shadow:0 1px 2.9px #b3b2b2;
     margin-bottom: 9px;
-    padding-top: 13px;
+    padding-top: 8px;
 }
 
 spam{
